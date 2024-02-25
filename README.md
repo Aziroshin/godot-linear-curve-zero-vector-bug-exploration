@@ -1,0 +1,1 @@
+# godot-linear-curve-zero-vector-bug-exploration

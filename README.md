@@ -1,6 +1,6 @@
 # godot-linear-curve-zero-vector-bug-exploration
 
-An exploration of the godot bug described in issue #...
+An exploration of the godot bug described in issue [#88923](https://github.com/godotengine/godot/issues/88923)
 
 All the code is in [root.gd](root.gd), with comments to guide the exploration process a bit. It's structured into various functions to make it easy to play around and poke at the problem, as well as visualize the curve and its control points.
 
